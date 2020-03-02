@@ -1,0 +1,11 @@
+{
+  "name": "adblockserver",
+  "version": "1.0.0",
+  "description": "interacts with the myfirstadblock chrom extension",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barak Gam Ze Letova",
+  "license": "ISC"
+}
